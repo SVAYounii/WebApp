@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "rootDir": "d:/Users/youne/Downloads/UnityRenderStreaming/UnityRenderStreaming-main/WebApp"
+    "rootDir": "/home/ec2-user/WebApp"
   },
   "include": [
     "src/**/*.ts",
